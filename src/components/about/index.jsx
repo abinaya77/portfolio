@@ -1,7 +1,6 @@
 import React from "react";
 import ItemLayout from "./ItemLayout";
 import Image from 'next/image';
-import Link from "next/link";
 
 const AboutDetails = () => {
   return (
@@ -14,7 +13,7 @@ const AboutDetails = () => {
             Get To Know Me!
           </h2>
           <p className="font-light text-xs sm:text-sm md:text-base">
-            As a passionate Full Stack Web Developer with nearly a year of experience, I've honed my skills through various freelance projects. One notable project was developing an online course learning platform that included mobile responsiveness, user authentication, payment integration, and dynamic dashboards for both instructors and users.
+            As a passionate Full Stack Web Developer with nearly a year of experience, I&apos;ve honed my skills through various freelance projects. One notable project was developing an online course learning platform that included mobile responsiveness, user authentication, payment integration, and dynamic dashboards for both instructors and users.
             I&apos;m enthusiastic about leveraging my skills and knowledge to create impactful web solutions. I thrive on challenges and am excited to showcase my talents in a full stack development role.
           </p>
         </ItemLayout>
