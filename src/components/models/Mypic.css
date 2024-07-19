@@ -1,0 +1,17 @@
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color:F5DAD2; /* Change the background color as per your design */
+    margin: 0;
+  }
+  
+  .profile-image {
+    width: 250px; /* Adjust the size as needed */
+    height: 250px; /* Adjust the size as needed */
+    border-radius: 50%;
+    border: 5px solid #000; /* Change the border color and width as per your design */
+    object-fit: cover; /* Ensures the image covers the entire circle */
+  }
+  
