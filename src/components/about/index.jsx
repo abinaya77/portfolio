@@ -31,16 +31,7 @@ const AboutDetails = () => {
           </p>
         </ItemLayout>
 
-        <ItemLayout className="col-span-full">
-          <Image
-            className="w-full h-auto"
-            src="https://skillicons.dev/icons?i=bootstrap,css,firebase,git,github,html,jquery,mongodb,nodejs,express,npm,postgres,react,tailwind,vercel,vite,vscode"
-            alt="CodeBucks"
-            width={1200} // Adjust width as needed
-            height={80}  // Adjust height as needed
-            loading="lazy"
-          />
-        </ItemLayout>
+        
       </div>
     </section>
   );
